@@ -9,11 +9,11 @@ Automated order-tracking system for Venus Appliances. Uses Playwright to log int
 Additionally, delays or damaged orders on manufacturer websites may go unnoticed for days, which can lead to customer dissatisfaction, order cancellations, and company inefficiency.
 
 ## Goal
- Gain back the two hours salespeople spend updating open-order reports so they can focus on every phase that contributes to the successful completion of a sale. Also, improve visibility into order issues to reduce customer loss, prevent financial decline, and ensure clients receive timely and accurate updates on their orders. Lastly, provide a streamline and automatic way to communicate with manufacturer if issues are found to prevent a lengthy troule shooting call.
+ Gain back the two hours salespeople spend updating open-order reports so they can focus on every phase that contributes to the successful completion of a sale. Also, improve visibility into order issues to reduce customer loss, prevent financial decline, and ensure clients receive timely and accurate updates on their orders. Lastly, provide a streamlined and automatic way to communicate with manufacturer if issues are found to prevent a lengthy troule shooting call.
 
 ## ERD Diagrams
 <p align="center">
-  <img src="mainImages/venusAppliances.drawio.png" alt="Database ERD Diagram" width="600">
+  <img src="mainImages/VenusAppliances.drawio.png" alt="Database ERD Diagram" width="600">
 </p>
 
 <p align="center">
@@ -21,5 +21,5 @@ Additionally, delays or damaged orders on manufacturer websites may go unnoticed
 </p>
 
 <p align="center">
-  <img src="mainImages/greatManufacturer.drawio.png" alt="Database ERD Diagram" width="600">
+  <img src="mainImages/greatManufacturerss.drawio.png" alt="Database ERD Diagram" width="600">
 </p>
